@@ -1,6 +1,6 @@
 # Titre
 [![langen](https://img.shields.io/badge/lang-en-red)]( <README.md> )  
-Cet exercice intitulé [*nom exercice*]( <lien exercice> ) est tiré du cours [*nom cours*]( <lien cours> ) donnée par [*nom enseignant*]( <lien enseignant> ) dans le cadre de la formation [*nom formation*]( <lien formation> )
+Ce dépôt contient tous les exercices du cours [Information et calcul scientifique]( https://moodle.epfl.ch/course/view.php?id=16877 ) donnée par [Luc Testa]( https://people.epfl.ch/luc.testa?lang=fr ) dans le cadre de la [MàN]( https://www.epfl.ch/education/bachelor/fr/structure-des-etudes/man/ ) à l'[EPFL]( https://www.epfl.ch/fr/ )
 
 [![Static Badge](https://img.shields.io/badge/Semaine-1-green)]( week1.ipynb )
 
