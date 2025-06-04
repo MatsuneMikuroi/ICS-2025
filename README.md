@@ -1,7 +1,7 @@
 # ICS 2025
 
 [![langfr](https://img.shields.io/badge/lang-fr-blue)]( https://github.com/MatsuneMikuroi/ICS-2025/blob/main/README.fr.md )  
-This repository conatins all the exercice of the course [Information and Scientific Computation]( https://moodle.epfl.ch/user/view.php?id=925489&course=16877 ) given by [Luc Testa]( https://people.epfl.ch/luc.testa?lang=en ) at [EPFL]( https://www.epfl.ch/en/ ) during the [MàN semester]( https://www.epfl.ch/education/bachelor/fr/structure-des-etudes/man/ ).
+This repository contains all the exercises of the course [Information and Scientific Computation]( https://moodle.epfl.ch/user/view.php?id=925489&course=16877 ) given by [Luc Testa]( https://people.epfl.ch/luc.testa?lang=en ) at [EPFL]( https://www.epfl.ch/en/ ) during the [MàN semester]( https://www.epfl.ch/education/bachelor/fr/structure-des-etudes/man/ ).
 
 ## Course's Notes
 
